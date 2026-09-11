@@ -1,4 +1,4 @@
-<img src= "imagens/Cabecalho.png"/>
+<img src= "imagens/cabeçalho"/>
 
 <h1 align="center">Análise de Desempenho de Algoritmo k-NN na Predição de Doença Renal Crônica</h1>
 
@@ -62,5 +62,5 @@ Daniel Roberto Cassar - Docente Pesquisador da Ilum – Escola de Ciência. Dout
 
 - SCIPY. *scipy.integrate.odeint*. Disponível em: <https://docs.scipy.org/doc/scipy/reference/generated/scipy.integrate.odeint.html>. Acesso em: 10 ago. 2026.
 
-<img src= "imagens/Rodape.png"/>
+<img src= "imagens/rodapé"/>
 

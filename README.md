@@ -36,7 +36,7 @@ Os modelos foram analisados por meio das seguintes métricas:
 
 - Seaborn (0.13.2): foi empregada para a visualização estatística dos dados;
 
--Scikit-Learn (1.7.2): implementação dos modelos, divisão treino-teste e cálculo das métricas de desempenho.
+- Scikit-Learn (1.7.2): implementação dos modelos, divisão treino-teste e cálculo das métricas de desempenho.
 
 
 ## Acesso ao código
@@ -48,8 +48,9 @@ As informações detalhadas do projeto, incluindo a fundamentação teórica, as
 Giovanna Avellar Machado - Aluna do Segundo Semestre do Bacharelado em Ciência, Tecnologia e Inovação da Ilum - Escola de Ciência 
 
 ## Professor Orientador
-| <img loading="lazy" src="https://github.com/user-attachments/assets/17dfa7bf-5ca9-42df-b63e-917827fc6308" width=115><br><sub> [Prof. Dr. Daneiel Roberto Cassar](http://lattes.cnpq.br/1717397276752482) | <img loading="lazy" src="https://github.com/user-attachments/assets/5be40392-5473-4b8b-b636-a55cbf0114fd" width=115><br>
-| :--: | :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/17dfa7bf-5ca9-42df-b63e-917827fc6308" width=115><br><sub>[Prof. Dr. Daniel Roberto Cassar](http://lattes.cnpq.br/1717397276752482)</sub> |
+| :--: |
+Daniel Roberto Cassar - Docente Pesquisador da Ilum – Escola de Ciência. Doutorado em Ciência e Engenharia de Materiais (UFSCar) e Pós-Doutorado pela UFSCar. Atua na área de Informática de Materiais.
 
 ## Referências Bibliográficas
 
@@ -57,7 +58,7 @@ Giovanna Avellar Machado - Aluna do Segundo Semestre do Bacharelado em Ciência,
 
 - NUMPY DEVELOPERS. *NumPy documentation*. Disponível em: <https://numpy.org/doc/>. Acesso em: 10 ago. 2026.
 
-- - RUBINI, L.; SOUNDARAPANDIAN, P.; ESWARAN, P. *Chronic Kidney Disease*. UCI Machine Learning Repository, 2015. Disponível em: <https://doi.org/10.24432/C5G020>. Acesso em: 17 ago. 2026.
+- RUBINI, L.; SOUNDARAPANDIAN, P.; ESWARAN, P. *Chronic Kidney Disease*. UCI Machine Learning Repository, 2015. Disponível em: <https://doi.org/10.24432/C5G020>. Acesso em: 17 ago. 2026.
 
 - SCIPY. *scipy.integrate.odeint*. Disponível em: <https://docs.scipy.org/doc/scipy/reference/generated/scipy.integrate.odeint.html>. Acesso em: 10 ago. 2026.
 

@@ -3,7 +3,7 @@
 <h1 align="center">Análise de Desempenho de Algoritmo k-NN na Predição de Doença Renal Crônica</h1>
 
 <p align="center">
-  <img src="imagens/header (1).png" />
+  <img src="imagens/headernova.png" />
 </p>
 
 Esse repositório contém o código-fonte desenvolvido para a Entrega Parcial (denominada no sistema de gamificação 'Cubo Gelatinoso') da disciplina "Aprendizado de Máquina" do segundo semestre do Bacharelado em Ciência e Tecnologia da Ilum. O objetivo do trabalho é estudar o desempenho de um modelo induzido pelo algoritmo dos k-vizinhos mais próximos (k-NN) em um conjunto de dados que contém informações sobre Doença Renal Crônica (DRC). Para isso, são avaliadas diferentes configurações de hiperparâmetros, analisando seu impacto sobre a capacidade preditiva do modelo.

@@ -54,13 +54,27 @@ Daniel Roberto Cassar - Docente Pesquisador da Ilum – Escola de Ciência. Dout
 
 ## Referências Bibliográficas
 
-- MATPLOTLIB DEVELOPMENT TEAM. *Matplotlib Pyplot tutorial*. Disponível em: <https://matplotlib.org/stable/tutorials/pyplot.html>. Acesso em: 10 ago. 2026.
+- CASSAR, Daniel R. Aprendizado de máquina, k-NN e métricas. 2026. Jupyter Notebook. Material didático não publicado.
 
-- NUMPY DEVELOPERS. *NumPy documentation*. Disponível em: <https://numpy.org/doc/>. Acesso em: 10 ago. 2026.
+- CASSAR, Daniel R. Divisão de dados em treino e teste. 2026. Jupyter Notebook. Material didático não publicado.
 
-- RUBINI, L.; SOUNDARAPANDIAN, P.; ESWARAN, P. *Chronic Kidney Disease*. UCI Machine Learning Repository, 2015. Disponível em: <https://doi.org/10.24432/C5G020>. Acesso em: 17 ago. 2026.
+- CASSAR, Daniel R. Modelo linear e baseline. 2026. Jupyter Notebook. Material didático não publicado.
 
-- SCIPY. *scipy.integrate.odeint*. Disponível em: <https://docs.scipy.org/doc/scipy/reference/generated/scipy.integrate.odeint.html>. Acesso em: 10 ago. 2026.
+- GBD 2023 CHRONIC KIDNEY DISEASE COLLABORATORS. Global, regional, and national burden of chronic kidney disease in adults, 1990–2023, and its attributable risk factors: a systematic analysis for the Global Burden of Disease Study 2023. The Lancet, v. 406, n. 10518, p. 2461-2482, 2025. DOI: 10.1016/S0140-6736(25)01853-7. Disponível em: <https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(25)01853-7/fulltext>. Acesso em: 10 ago. 2026.
+
+- MATPLOTLIB DEVELOPMENT TEAM. Matplotlib Pyplot tutorial. Disponível em: <https://matplotlib.org/stable/tutorials/pyplot.html>. Acesso em: 10 ago. 2026.
+
+- NUMPY DEVELOPERS. NumPy documentation. Disponível em: <https://numpy.org/doc/>. Acesso em: 10 ago. 2026.
+
+- PANDAS DEVELOPMENT TEAM. pandas documentation. Disponível em: <https://pandas.pydata.org/docs/>. Acesso em: 10 ago. 2026.
+
+- RUBINI, L.; SOUNDARAPANDIAN, P.; ESWARAN, P. Chronic Kidney Disease [Dataset]. UCI Machine Learning Repository, 2015. Disponível em: <https://doi.org/10.24432/C5G020>. Acesso em: 17 ago. 2026.
+
+- SCIKIT-LEARN DEVELOPERS. scikit-learn: machine learning in Python. Disponível em: <https://scikit-learn.org/stable/>. Acesso em: 10 ago. 2026.
+
+- SEABORN DEVELOPMENT TEAM. seaborn: statistical data visualization. Disponível em: <https://seaborn.pydata.org/>. Acesso em: 10 ago. 2026.
+
+- ANTHROPIC. Claude. São Francisco: Anthropic, 2026. Disponível em: <https://claude.ai/>. Acesso em: 14 set. 2026.
 
 <img src= "imagens/rodapé"/>
 

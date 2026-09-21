@@ -17,7 +17,7 @@ Após o pré-processamento dos dados, foram realizadas etapas de tratamento de v
 ## Modelos Analisados
 - **Modelo Baseline (DummyClassifier):** utilizado como referência para avaliar se os modelos desenvolvidos apresentam desempenho superior ao obtido por uma estratégia baseada na classe majoritária, isto é, na moda;
 - **k-Nearest Neighbors (k-NN):** algoritmo supervisionado de classificação baseado na proximidade entre exemplos, em que a classe de uma observação é determinada a partir das classes de seus vizinhos mais próximos;
--  **Análise de Hiperparâmetros:** estudo do impacto de parâmetros como número de vizinhos k.
+-  **Análise de Hiperparâmetros:** estudo do impacto de parâmetros como número de vizinhos k (1 a 15), tipo de normalização linear adotada (StandardScaler, MinMaxScaler ou MaxAbsScaler) e distância (eEuclidiana, Manhattan ou Chebyshev). 
   
 ## Métricas de Desempenho
 Os modelos foram analisados por meio das seguintes métricas:
@@ -52,29 +52,38 @@ Giovanna Avellar Machado - Aluna do Segundo Semestre do Bacharelado em Ciência,
 | :--: |
 Daniel Roberto Cassar - Docente Pesquisador da Ilum – Escola de Ciência. Doutorado em Ciência e Engenharia de Materiais (UFSCar) e Pós-Doutorado pela UFSCar. Atua na área de Informática de Materiais.
 
+## Agradecimentos 
+
+Agradeço aos estudantes da Ilum Glauber Nascimento de Oliveira e Gabriela Oliveira de Lima Cabral pelas trocas e discussões ao longo do desenvolvimento deste trabalho, que contribuiram para sua concretização.
+
 ## Referências Bibliográficas
 
-- CASSAR, Daniel R. Aprendizado de máquina, k-NN e métricas. 2026. Jupyter Notebook. Material didático não publicado.
+- GBD 2023 CHRONIC KIDNEY DISEASE COLLABORATORS. Global, regional, and national burden of chronic kidney disease in adults, 1990–2023, and its attributable risk factors: a systematic analysis for the Global Burden of Disease Study 2023. The Lancet, v. 406, n. 10518, p. 2461-2482, 2025. DOI: 10.1016/S0140-6736(25)01853-7. Disponível em: https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(25)01853-7/fulltext. Acesso em: 10 ago. 2026.
+
+- RUBINI, L.; SOUNDARAPANDIAN, P.; ESWARAN, P. Chronic Kidney Disease [Dataset]. UCI Machine Learning Repository, 2015. Disponível em: https://doi.org/10.24432/C5G020. Acesso em: 17 ago. 2026.
+
+- MATPLOTLIB DEVELOPMENT TEAM. Matplotlib Pyplot tutorial. Disponível em: https://matplotlib.org/stable/tutorials/pyplot.html. Acesso em: 10 ago. 2026.
+
+- NUMPY DEVELOPERS. NumPy documentation. Disponível em: https://numpy.org/doc/. Acesso em: 10 ago. 2026.
+
+- PANDAS DEVELOPMENT TEAM. pandas documentation. Disponível em: https://pandas.pydata.org/docs/. Acesso em: 10 ago. 2026.
+
+- SEABORN DEVELOPMENT TEAM. seaborn: statistical data visualization. Disponível em: https://seaborn.pydata.org/. Acesso em: 10 ago. 2026.
+
+- SCIKIT-LEARN DEVELOPERS. scikit-learn: machine learning in Python. Disponível em: https://scikit-learn.org/stable/. Acesso em: 10 ago. 2026.
+
+- HIDAYAT, Ramdhan. Understanding the Dummy Variable Trap. Medium, 29 jul. 2024. Disponível em: https://medium.com/@ramdhanhdy/understanding-the-dummy-variable-trap-78d00f8bf20a. Acesso em: 21 set. 2026.
+
+- IBM. O que é redução da dimensionalidade?. IBM Think, 5 jan. 2024. Disponível em: https://www.ibm.com/br-pt/think/topics/dimensionality-reduction. Acesso em: 21 set. 2026.
 
 - CASSAR, Daniel R. Divisão de dados em treino e teste. 2026. Jupyter Notebook. Material didático não publicado.
 
 - CASSAR, Daniel R. Modelo linear e baseline. 2026. Jupyter Notebook. Material didático não publicado.
 
-- GBD 2023 CHRONIC KIDNEY DISEASE COLLABORATORS. Global, regional, and national burden of chronic kidney disease in adults, 1990–2023, and its attributable risk factors: a systematic analysis for the Global Burden of Disease Study 2023. The Lancet, v. 406, n. 10518, p. 2461-2482, 2025. DOI: 10.1016/S0140-6736(25)01853-7. Disponível em: <https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(25)01853-7/fulltext>. Acesso em: 10 ago. 2026.
+- CASSAR, Daniel R. Aprendizado de máquina, k-NN e métricas. 2026. Jupyter Notebook. Material didático não publicado.
 
-- MATPLOTLIB DEVELOPMENT TEAM. Matplotlib Pyplot tutorial. Disponível em: <https://matplotlib.org/stable/tutorials/pyplot.html>. Acesso em: 10 ago. 2026.
+- ANTHROPIC. Claude (Sonnet 5). São Francisco: Anthropic, 2026. Disponível em: https://claude.ai. Acesso em: 10 ago. 2026.
 
-- NUMPY DEVELOPERS. NumPy documentation. Disponível em: <https://numpy.org/doc/>. Acesso em: 10 ago. 2026.
-
-- PANDAS DEVELOPMENT TEAM. pandas documentation. Disponível em: <https://pandas.pydata.org/docs/>. Acesso em: 10 ago. 2026.
-
-- RUBINI, L.; SOUNDARAPANDIAN, P.; ESWARAN, P. Chronic Kidney Disease [Dataset]. UCI Machine Learning Repository, 2015. Disponível em: <https://doi.org/10.24432/C5G020>. Acesso em: 17 ago. 2026.
-
-- SCIKIT-LEARN DEVELOPERS. scikit-learn: machine learning in Python. Disponível em: <https://scikit-learn.org/stable/>. Acesso em: 10 ago. 2026.
-
-- SEABORN DEVELOPMENT TEAM. seaborn: statistical data visualization. Disponível em: <https://seaborn.pydata.org/>. Acesso em: 10 ago. 2026.
-
-- ANTHROPIC. Claude. São Francisco: Anthropic, 2026. Disponível em: <https://claude.ai/>. Acesso em: 14 set. 2026.
+P.S. As referências estão ordenadas em ordem de aparição no documento.
 
 <img src= "imagens/rodapé"/>
-

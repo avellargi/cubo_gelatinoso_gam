@@ -17,7 +17,7 @@ Após o pré-processamento dos dados, foram realizadas etapas de tratamento de v
 ## Modelos Analisados
 - **Modelo Baseline (DummyClassifier):** utilizado como referência para avaliar se os modelos desenvolvidos apresentam desempenho superior ao obtido por uma estratégia baseada na classe majoritária, isto é, na moda;
 - **k-Nearest Neighbors (k-NN):** algoritmo supervisionado de classificação baseado na proximidade entre exemplos, em que a classe de uma observação é determinada a partir das classes de seus vizinhos mais próximos;
--  **Análise de Hiperparâmetros:** estudo do impacto de parâmetros como número de vizinhos k (1 a 15), tipo de normalização linear adotada (StandardScaler, MinMaxScaler ou MaxAbsScaler) e distância (eEuclidiana, Manhattan ou Chebyshev). 
+-  **Análise de Hiperparâmetros:** estudo do impacto de parâmetros como número de vizinhos k (1 a 15), tipo de normalização linear adotada (Nenhuma, StandardScaler, MinMaxScaler ou MaxAbsScaler) e distância (eEuclidiana, Manhattan ou Chebyshev). 
   
 ## Métricas de Desempenho
 Os modelos foram analisados por meio das seguintes métricas:
